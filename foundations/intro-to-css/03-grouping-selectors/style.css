@@ -1,0 +1,14 @@
+.all_buttons {
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+    font-size: 28px;
+
+}
+
+.click_btn {
+    background-color: #000000;
+    color: hsl(0, 0%, 100%);
+}
+
+.no-click_btn {
+    background-color: #ffff00;
+}
