@@ -1,0 +1,19 @@
+p {
+    font-family: 'Verdana','DejaVu Sans','sans-serif';
+    background-color: hsl(351, 100%, 86%);
+}
+
+#second-elem {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#third-elem {
+    font-size: 24px;
+}
+
+#fourth-elem {
+    font-size: 24px;
+    font-weight: 700;
+    background-color: rgb(144, 238, 144);
+}
